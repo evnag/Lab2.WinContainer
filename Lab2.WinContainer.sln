@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.WinContainer", "Lab2.WinContainer\Lab2.WinContainer.csproj", "{2D535AFB-9FC3-418B-9016-43B60BA3B9A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.WinLinkLabel", "Lab2.WinLinkLabel\Lab2.WinLinkLabel.csproj", "{94F242FC-A618-47CE-8058-B5F18D2BCE3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2D535AFB-9FC3-418B-9016-43B60BA3B9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D535AFB-9FC3-418B-9016-43B60BA3B9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D535AFB-9FC3-418B-9016-43B60BA3B9A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F242FC-A618-47CE-8058-B5F18D2BCE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F242FC-A618-47CE-8058-B5F18D2BCE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F242FC-A618-47CE-8058-B5F18D2BCE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F242FC-A618-47CE-8058-B5F18D2BCE3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
