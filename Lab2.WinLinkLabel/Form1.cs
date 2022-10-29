@@ -15,6 +15,10 @@ namespace Lab2.WinLinkLabel
             if (aResult == System.Windows.Forms.DialogResult.OK)
             {
                 MessageBox.Show("Your name is " + aForm.textBox1.Text + aForm.textBox2.Text);
+
+                MessageBox.Show("Your address is " + aForm.textBox3.Text);
+                MessageBox.Show("Your phone number is " +
+                aForm.maskedTextBox1.Text);
             }
             linkLabel1.LinkVisited = true;
         }
