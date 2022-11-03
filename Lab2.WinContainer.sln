@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.WinContainer", "Lab2.W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.WinLinkLabel", "Lab2.WinLinkLabel\Lab2.WinLinkLabel.csproj", "{94F242FC-A618-47CE-8058-B5F18D2BCE3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.RegistrationForm", "Lab2.RegistrationForm\Lab2.RegistrationForm.csproj", "{098C4858-2CC9-4E7F-B861-09CEFEF8ECD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{94F242FC-A618-47CE-8058-B5F18D2BCE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94F242FC-A618-47CE-8058-B5F18D2BCE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94F242FC-A618-47CE-8058-B5F18D2BCE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098C4858-2CC9-4E7F-B861-09CEFEF8ECD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098C4858-2CC9-4E7F-B861-09CEFEF8ECD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098C4858-2CC9-4E7F-B861-09CEFEF8ECD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098C4858-2CC9-4E7F-B861-09CEFEF8ECD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
